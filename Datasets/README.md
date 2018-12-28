@@ -1,4 +1,3 @@
-##Dataset information
 #The complete dataset in csv format can be found in my kaggle (User ID: jcaballe)
 
 Dataset_1 contains rows 1 to 65,000
